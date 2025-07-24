@@ -18,4 +18,4 @@ add(2,3) # 2 - 3 - 2 - 20
 print(f"The value of d is {d}") # 20
 sq=add1(4)
 
-print(f"The vaule of Square is {sq}") # #16
+print(f"The vaule of Square is {sq}") #16
