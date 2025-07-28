@@ -15,7 +15,7 @@ while True:
     password = input("Enter your password: ")
     
     # Display the output
-    print(f"Hi Hostname {hostname}")
+    print(f"Hi {hostname}")
     print(f"Your IP address is {ip_address}")
     print(f"Your Username is {username}")
     print(f"your password is {password}")
